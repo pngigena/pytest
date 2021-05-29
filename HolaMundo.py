@@ -1,0 +1,1 @@
+print("Hola Mundo v1 en Docker - Kubernetes - Openshift")
